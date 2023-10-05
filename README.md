@@ -4,7 +4,7 @@ Let us consider the following authenticated DH key exchange protocol to establis
 group of prime order q: $G=\mathbb{Z}_{P}^{*}$. 
 
 Use the generator g of $G=\mathbb{Z}_{P}^{*}$ provided in the parameter section. Use the DSA implementation for KeyGen(), Sig(), and Verify(). You can generate a pair
-of signing-and-verication keys for Alice and Bob, denoted by (v$k_{A}$, s$k_{A}$)
+of signing-and-verication keys for Alice and Bob, denoted by (v $k_{A}$, s $k_{A}$)
 
 # Parameters
 
